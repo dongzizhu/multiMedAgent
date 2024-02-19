@@ -11,7 +11,7 @@ The adoption of large language models (LLMs) in healthcare has attracted signifi
   
 ## Data Preprocessing  
   
-We evaluated our framework on the public dataset [MIMIC-Diff-VQA]([https://github.com/Holipori/MIMIC-Diff-VQA/tree/main](https://urldefense.com/v3/__https://github.com/Holipori/MIMIC-Diff-VQA/tree/main__;!!KGKeukY!wBzpFDiYI3E7sS9NabKzFnZN2ieXog9dvy-OdJzeh4RGmEpxwypVSGt5BHlFQGsp835dmy3rClnkAmq42VUZ$)), please refer to their repo and [Physionet]([https://physionet.org/content/medical-diff-vqa/1.0.0/](https://urldefense.com/v3/__https://physionet.org/content/medical-diff-vqa/1.0.0/__;!!KGKeukY!wBzpFDiYI3E7sS9NabKzFnZN2ieXog9dvy-OdJzeh4RGmEpxwypVSGt5BHlFQGsp835dmy3rClnkAhXHSNZC$)) for data access.  
+We evaluated our framework on the public dataset [MIMIC-Diff-VQA](https://github.com/Holipori/MIMIC-Diff-VQA/tree/main), please refer to their repo and [Physionet](https://physionet.org/content/medical-diff-vqa/1.0.0/) for data access.  
 
 1. **Convert Image** Run the following code to create the PNG images that we are gonna work with.
 ```python
